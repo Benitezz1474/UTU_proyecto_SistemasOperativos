@@ -1,5 +1,7 @@
 #!/bin/bash
 
+
+
 echo "Bienvenido al sistema de login"
 
 read -p "Ingrese su CI: " ci
