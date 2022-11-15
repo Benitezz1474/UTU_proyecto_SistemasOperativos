@@ -12,4 +12,4 @@ NO
 -----------------
 Entrega:
 
-Sistema de login Shell Script y SQL
+Sistema de login con Shell Script y SQL
